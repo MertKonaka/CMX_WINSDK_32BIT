@@ -1,0 +1,30 @@
+[crcInit]
+Class="Function"
+Prototype="void crcInit();"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:49:6"
+
+[CRCCALC]
+Class="Function"
+Prototype="unsigned long CRCCALC(const unsigned char message[], int nBytes);"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:70:5"
+
+[deserialize_uint32]
+Class="Function"
+Prototype="unsigned int deserialize_uint32(unsigned char *buf);"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:85:14"
+
+[deserialize_uint32B]
+Class="Function"
+Prototype="unsigned char *deserialize_uint32B(unsigned char *buffer, unsigned int *value);"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:91:17"
+
+[deserialize_uint16]
+Class="Function"
+Prototype="unsigned short deserialize_uint16(unsigned char *buf);"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:96:16"
+
+[serialize_uint16B]
+Class="Function"
+Prototype="unsigned char *serialize_uint16B(unsigned char *buffer, unsigned short *value);"
+SourceLocation="c:\Users\musta\OneDrive\Desktop\CMX 1553 ICD 485 Example\Support.c:102:17"
+
